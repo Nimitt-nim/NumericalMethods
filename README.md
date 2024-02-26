@@ -1,2 +1,2 @@
 # NumericalMethods
-Useful Numerical Methods
+Some Useful Numerical Methods
